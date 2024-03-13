@@ -1,0 +1,16 @@
+LICENCE
+README.md
+pyproject.toml
+setup.py
+all_graphs/__init__.py
+all_graphs.egg-info/PKG-INFO
+all_graphs.egg-info/SOURCES.txt
+all_graphs.egg-info/dependency_links.txt
+all_graphs.egg-info/top_level.txt
+all_graphs/bignodegraph/__init__.py
+all_graphs/bignodegraph/bignodegraph.py
+all_graphs/digraph/__init__.py
+all_graphs/digraph/digraph.py
+all_graphs/graphs/__init__.py
+all_graphs/graphs/graph.py
+all_graphs/graphs/weightedgraphs.py
